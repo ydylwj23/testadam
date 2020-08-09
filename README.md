@@ -23,6 +23,4 @@ pull by sbarina
 
 ## add by adam
 
-##  adam 1111
-
-## add a new line
+## remove then add a new line 
